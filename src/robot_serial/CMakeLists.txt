@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(chassis_serial_driver)
+project(robot_serial)
 
 ## Use C++14
 set(CMAKE_CXX_STANDARD 14)
